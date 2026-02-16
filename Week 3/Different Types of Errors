@@ -1,0 +1,8 @@
+Errors:
+- Name Error: Name (of variable) isn't defined
+- Indentation Error: Indent wrong 
+- Attribute Error: Class is wrong
+- IndexOutOfRange: Incorrect Index
+- Syntax Error: Wrong syntax 
+- Import Error: Module wrong
+- Logic Error: Runs but does not provide desired output
