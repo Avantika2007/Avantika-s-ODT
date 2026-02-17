@@ -6,6 +6,6 @@ while True:
   s_value=s.value()
   if s_value==0:
     led.on()
-    print('Obstacle Detection')
+    print('Obstacle Detected')
   else:
     led.off()
